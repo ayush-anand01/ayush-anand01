@@ -14,8 +14,9 @@
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayush-anand01)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-anand-b37150176/)
-[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/AyushAnand01)
+[![Facebook](https://img.shields.io/badge/Facebook-darkblue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/AyushAnand01)
 [![Instagram](https://img.shields.io/badge/Instagram-FF4500?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ayush__anand01/)
+[![GFG](https://img.shields.io/badge/GFG-darkgreen?style=for-the-badge&logo=Geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/ayushanand01/practice/)
 
 <!---
 - 👀 I’m interested in C++ ,Web Development, Video editing
